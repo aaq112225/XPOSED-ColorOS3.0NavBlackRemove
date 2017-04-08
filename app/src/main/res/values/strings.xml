@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorOS3.0NavBlackRemove</string>
+    <string name="xposed_description">ColorOS3.0 remove navigation bar compulsory black background coverage.</string>
+</resources>

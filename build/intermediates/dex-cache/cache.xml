@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\6438963c7e07e390b30ecd54b040cafcba8167d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_24f7f598527de1cc598864a04606fedb0225f365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\81e40992567432e8f60b412dea9536512a47bf8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_d6efc2d1c08bb9daad8a034371f8a8e1f53220ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\b75cbaa853a968e5072fe7f73be4d706a5d66324\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_7e1d5e34d743c0fe3adeb71ebd5fad6781a63e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\55bc90cca19891083042117ea85640793f542e3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_8c10a61ff62d9aad6753f00e1c57e54bec038857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\12f919fbc247bb88e1b35a52493feb158d5f4b59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_91e661b8c41afbec45d8f783e4eef3777b2f17d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\333e7f02336c7e929096a99e6d8d36a4ae3f98a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_b4e353f7699666d3581e9f99bcaaf9335d95af55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\support-annotations-25.2.0_9d4aac23e0dfd5ff5d8b7ac60a6767dacf46f237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\21c3330110612eef8b3c4d539601f0c323a051ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_3053fbb6a694a8810ded637164633b8e19493799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\aad943b9db5af8c839980255ce96c6475e77517e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_4d56c4852ad0ccd299bb048c251e55ee7a4106dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvtwu\.android\build-cache\ad4c8dcbaa5b1434ae61556b53ffb147f6cce6b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\tvtwu\Documents\android-project\Coloros3.0NavBlackRemove\app\build\intermediates\pre-dexed\release\classes_990887f5083e8b21a91671965e45fe6d79b783b8.jar" />
+    </item>
+
+</items>
