@@ -6,7 +6,14 @@
 #
 # For more details, see
 #   http://developer.android.com/guide/developing/tools/proguard.html
+-optimizations !code/simplification/arithmetic,!code/simplification/cast,!field/*,!class/merging/*
+-optimizationpasses 5
+-allowaccessmodification
+-dontpreverify
 
+-dontusemixedcaseclassnames
+-dontskipnonpubliclibraryclasses
+-verbose
 # Add any project specific keep options here:
 
 # If your project uses WebView with JS, uncomment the following
@@ -15,7 +22,7 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
-
+-keep public class cn.aaq112225.coloros30navblackremove.HookMain
 # Uncomment this to preserve the line number information for
 # debugging stack traces.
 #-keepattributes SourceFile,LineNumberTable
